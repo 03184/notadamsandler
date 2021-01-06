@@ -5,13 +5,13 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jan 2021 22:00:32 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2021 22:00:32 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Jan 2021 22:20:46 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 22:20:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Sweet Chili Sticky Asian Chicken Wings</title>
-        <description>&lt;p&gt;An easy keto recipe that combines crisped chicken wings with a no sugar added, sweet, spicy, and sticky Asian chicken wing sauce.&lt;/p&gt;
+        <description>
 </description>
         <link>http://0.0.0.0:4000/recipes/asian-sticky-wings.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/recipes/asian-sticky-wings.html</guid>
