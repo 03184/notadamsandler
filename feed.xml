@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chowdown</title>
+    <description>The plain text recipe database for hackers</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jan 2021 21:00:46 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 21:00:46 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sweet Chili Sticky Asian Chicken Wings</title>
+        <description>&lt;p&gt;An easy keto recipe that combines crisped chicken wings with a no sugar added, sweet, spicy, and sticky Asian chicken wing sauce.&lt;/p&gt;
+</description>
+        <link>http://0.0.0.0:4000/recipes/asian-sticky-wings.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/asian-sticky-wings.html</guid>
+        
+        <category>dinner</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bang Bang Shrimp</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/bangbang-shrimp.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/bangbang-shrimp.html</guid>
+        
+        <category>mains</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bear Lasagna</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/bear-lasagna.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/bear-lasagna.html</guid>
+        
+        <category>mains</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Beef Kofta</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/beef-kofta.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/beef-kofta.html</guid>
+        
+        <category>main</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blueberry Cobbler</title>
+        <description>&lt;p&gt;This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I’m cooking or grilling meat, there’s a good chance this is what it’s soaking in. It’s perfect for “street meat” aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.&lt;/p&gt;
+</description>
+        <link>http://0.0.0.0:4000/recipes/blueberry-cobbler.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/blueberry-cobbler.html</guid>
+        
+        <category>desserts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Buffalo Wings</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/buffalo-wings.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/buffalo-wings.html</guid>
+        
+        <category>mains,</category>
+        
+        <category>meat</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bunty's Naan</title>
+        <description>&lt;p&gt;You can’t beat a nunty baan !!!!&lt;/p&gt;
+</description>
+        <link>http://0.0.0.0:4000/recipes/bunty-naan.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/bunty-naan.html</guid>
+        
+        <category>sides</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gordon Ramsey Squash Curry</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/butternut-squash-curry.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/butternut-squash-curry.html</guid>
+        
+        <category>mains</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>El Oso Meatloaf</title>
+        <description>&lt;p&gt;Can’t be beaten or improved&lt;/p&gt;
+</description>
+        <link>http://0.0.0.0:4000/recipes/classic-meatload.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/classic-meatload.html</guid>
+        
+        <category>mains</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Coconut Curry</title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/coconut-curry.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/coconut-curry.html</guid>
+        
+        <category>mains</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
