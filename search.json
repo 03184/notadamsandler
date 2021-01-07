@@ -92,6 +92,15 @@
   
     {
     
+	    "title"    : "Cottage Pie",
+		"ingredients"    : "Lasagna sheets, 5 eggs, beaten, 190 g cream cheese, 2⁄3 tsp salt, 35g ground psyllium husk powder, Meat sauce, 2 tbsp olive oil, 1⁄3 yellow onion, finely chopped, 2⁄3 garlic clove, finely chopped, 500g ground beef, 1 1⁄3 tbsp tomato paste, 1 tsp Italian Seasoning, 2⁄3 tsp salt, 1⁄8 tsp ground black pepper, 80 ml water, Cheese topping, 240ml sour cream, 75g shredded mozzarella cheese, 27g shredded Parmesan cheese, 1⁄3 tsp salt, 1⁄8 tsp ground black pepper, 20g fresh parsley, finely chopped, ",
+		"image"	   : "cottage-pie.png",
+	    "url"      : "/recipes/cottage-pie.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Enchilada Bowl",
 		"ingredients"    : "2 tablespoons coconut oil (for searing chicken), 1 pound of boneless, skinless chicken thighs, 3/4 cup red enchilada sauce (recipe from Low Carb Maven), 1/4 cup water, 1/4 cup chopped onion, 1– 4 oz can diced green chiles, toppings (feel free to customize), 1 whole avocado, diced, 1 cup shredded cheese (I used mild cheddar), 1/4 cup chopped pickled jalapenos, 1/2 cup sour cream, 1 roma tomato, chopped, ",
 		"image"	   : "enchilada-bowl.png",
