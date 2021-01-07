@@ -137,6 +137,15 @@
   
     {
     
+	    "title"    : "Peanut Butter Chocos",
+		"ingredients"    : "1 1/2 c. smooth unsweetened peanut butter, melted, 1 c. coconut flour, 1/4 c. packed keto-friendly brown sugar, such as Swerve, 1 tsp. pure vanilla extract, Pinch kosher salt, 2 c. keto-friendly dark chocolate chips, such as Lily&#39;s, melted, 1 tbsp. coconut oil, ",
+		"image"	   : "pbc.png",
+	    "url"      : "/recipes/peanut-butter-chocos.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Spicy Ramen Bowl",
 		"ingredients"    : "1 tablespoon olive oil, 1 small onion (thinly sliced), 1 tablespoon freshly grated ginger, 3 cloves garlic (finely minced), 1 teaspoon chili paste, 1/2 teaspoon salt, 1/4 teaspoon pepper, 1 tablespoon fish sauce, 1/4 cup soy sauce (or coconut aminos), 1/4 cup rice wine vinegar, 4 oz mushrooms (sliced thin), 4 hard boiled eggs, 2–3 packets shirataki noodles (or 4–5 cups of zucchini noodles), 5 cups bone broth, ",
 		"image"	   : "spicy-ramen-bowl.png",
