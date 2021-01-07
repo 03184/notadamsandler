@@ -173,6 +173,15 @@
   
     {
     
+	    "title"    : "Peri-Peri Chicken With Pepper And Tomato Cauliflower rice",
+		"ingredients"    : "2 tbsp salt, ",
+		"image"	   : "peri-peri-chicken.png",
+	    "url"      : "/recipes/peri-peri-chicken.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Spicy Ramen Bowl",
 		"ingredients"    : "1 tablespoon olive oil, 1 small onion (thinly sliced), 1 tablespoon freshly grated ginger, 3 cloves garlic (finely minced), 1 teaspoon chili paste, 1/2 teaspoon salt, 1/4 teaspoon pepper, 1 tablespoon fish sauce, 1/4 cup soy sauce (or coconut aminos), 1/4 cup rice wine vinegar, 4 oz mushrooms (sliced thin), 4 hard boiled eggs, 2–3 packets shirataki noodles (or 4–5 cups of zucchini noodles), 5 cups bone broth, ",
 		"image"	   : "spicy-ramen-bowl.png",
