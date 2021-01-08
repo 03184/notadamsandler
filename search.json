@@ -128,6 +128,15 @@
   
     {
     
+	    "title"    : "Keto Quesadillas",
+		"ingredients"    : "1 tbsp. extra-virgin olive oil, 1 bell pepper, sliced, 1/2 yellow onion, sliced, 1/2 tsp. chili powder, Kosher salt, Freshly ground black pepper, 3 c. shredded Monterey Jack, 3 c. shredded cheddar, 4 c. shredded chicken, 1 avocado, thinly sliced, 1 green onion, thinly sliced, Sour cream, for serving, ",
+		"image"	   : "keto-quesadillas.png",
+	    "url"      : "/recipes/keto-quesadillas.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Keto Taquitos",
 		"ingredients"    : "2 tbsp. extra-virgin olive oil, 1/2 onion, finely chopped, 4 cloves garlic, minced, 1 tsp. ground cumin, 1 tsp. chili powder, 2 c. shredded chicken, 2/3 c. red enchilada sauce, 4 tbsp. freshly chopped cilantro, plus more for garnish, Kosher salt, 2 c. shredded cheddar, 2 c. shredded Gouda, Sour cream, for serving (optional), ",
 		"image"	   : "keto-taquitos.png",
