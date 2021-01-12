@@ -2,6 +2,15 @@
   
     {
     
+	    "title"    : "Keto Quesadillas",
+		"ingredients"    : "1 tbsp. extra-virgin olive oil, 1 bell pepper, sliced, 1/2 yellow onion, sliced, 1/2 tsp. chili powder, Kosher salt, Freshly ground black pepper, 3 c. shredded Monterey Jack, 3 c. shredded cheddar, 4 c. shredded chicken, 1 avocado, thinly sliced, 1 green onion, thinly sliced, Sour cream, for serving, ",
+		"image"	   : "keto-quesadillas.png",
+	    "url"      : "/recipes/a-quick-conversion.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Sweet Chili Sticky Asian Chicken Wings",
 		"ingredients"    : "Oven Fried Chicken Wings, 500g Chicken Wings about 12 wing parts, 1 1/4 tbsp Baking Powder, 1/4 tsp Natural Ancient Sea Salt, 1/2 tsp Black Pepper, 1/2 tsp Smoked Paprika, 1/2 tsp Garlic Powder, 1/2 tsp Onion Powder, Sweet Chili Wing Sauce, 1/2 cup Water, 1/4 cup Unseasoned Rice Vinegar, 2.5 Garlic Cloves minced, 1 1/2 tbsp Soy Sauce, 1/8 tsp Xanthan Gum, 1/4 cup Keto Brown Sugar Replacement, 1/4 tsp Ground Ginger, 1.5 tbsp Garlic Chili Sauce, 1.5 tsp Pure Sesame Oil, ",
 		"image"	   : "sticky-wings.png",
@@ -128,9 +137,9 @@
   
     {
     
-	    "title"    : "Keto Quesadillas",
-		"ingredients"    : "1 tbsp. extra-virgin olive oil, 1 bell pepper, sliced, 1/2 yellow onion, sliced, 1/2 tsp. chili powder, Kosher salt, Freshly ground black pepper, 3 c. shredded Monterey Jack, 3 c. shredded cheddar, 4 c. shredded chicken, 1 avocado, thinly sliced, 1 green onion, thinly sliced, Sour cream, for serving, ",
-		"image"	   : "keto-quesadillas.png",
+	    "title"    : "A quick Conversion Guide",
+		"ingredients"    : "CONVERT RECIPE BY A THIRD, One third of ¼ cup is equivalent to 1 tbsp + 1 tsp, One third of ⅓ cup is equivalent to 1 tbsp + 2 ¼ tsp, One third of ½ cup is equivalent to 2 tbsp + 2 tsp, One third of ⅔ cup is equivalent to 3 tbsp + 1 ½ tsp, One third of ¾ cup is equivalent to ¼ cup, One third of 1 cup is equivalent to ⅓ cup, One third of 1 tbsp is equivalent to 1 tsp, One third of 1 tsp is equivalent to a heaping ¼ tsp, One third of ½ tsp is equivalent to a scant ¼ tsp, One third of ¼ tsp is equivalent to a scant ⅛ tsp, One third of ⅛ tsp is equivalent to a dash, CONVERT RECIPE BY HALF, Half of ¼ cup is equivalent to 2 tbsp, Half of ⅓ cup is equivalent to 2 tbsp + 2 tsp, Half of ½ cup is equivalent to ¼ cup, Half of ⅔ cup is equivalent to ⅓ cup, Half of ¾ cup is equivalent to 6 tbsp, Half of 1 cup is equivalent to ½ cup, Half of 1 tbsp is equivalent to 1 ½ tsp, Half of 1 tsp is equivalent to ½ tsp, Half of ½ tsp is equivalent to ¼ tsp, Half of ¼ tsp is equivalent to ⅛ tsp, Half of ⅛ tsp is equivalent to a dash, ",
+		"image"	   : "convert.png",
 	    "url"      : "/recipes/keto-quesadillas.html"
       
     } ,
