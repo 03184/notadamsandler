@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2021 16:06:00 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2021 16:06:00 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2021 14:56:30 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2021 14:56:30 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -29,6 +29,16 @@
         <guid isPermaLink="true">http://0.0.0.0:4000/recipes/asian-sticky-wings.html</guid>
         
         <category>dinner</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <link>http://0.0.0.0:4000/recipes/asian-stirfry-sauce.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/asian-stirfry-sauce.html</guid>
         
         
       </item>
@@ -113,18 +123,6 @@
 </description>
         <link>http://0.0.0.0:4000/recipes/butternut-squash-curry.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/recipes/butternut-squash-curry.html</guid>
-        
-        <category>mains</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>El Oso Meatloaf</title>
-        <description>&lt;p&gt;Can’t be beaten or improved&lt;/p&gt;
-</description>
-        <link>http://0.0.0.0:4000/recipes/classic-meatload.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/classic-meatload.html</guid>
         
         <category>mains</category>
         
